@@ -1808,10 +1808,10 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Estos son algunos v&amp;#237;nculos y documentos &amp;#250;tiles:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Creación de usurio VSTS.pdf" image="story_content/5aQa18DKXTe.png" title="Creaci&amp;#243;n de usurio VSTS" translationId="6fltYSW12wV" />
-      <resource url="story_content/external_files/Create RFC guide.pdf" image="story_content/6WZd60oUExz.png" title="Create RFC guide" translationId="6lRJNjFz9uJ" />
-      <resource url="story_content/external_files/Manual Básico de Azure DevOps.pdf" image="story_content/5cQHdXMvEI1.png" title="Manual B&amp;#225;sico de Azure DevOps" translationId="6IURtFLgYX5" />
-      <resource url="story_content/external_files/Proceso de Reporte de Gasto.pdf" image="story_content/5Z9htEopo3P.png" title="Proceso de Reporte de Gasto" translationId="5wivQiqvsMk" />
+      <resource url="story_content/external_files/Creación de usurio VSTS.pdf" image="story_content/6OlbItu9MUx.png" title="Creaci&amp;#243;n de usurio VSTS" translationId="6fltYSW12wV" />
+      <resource url="story_content/external_files/Create RFC guide.pdf" image="story_content/6jp2CxzBwEA.png" title="Create RFC guide" translationId="6lRJNjFz9uJ" />
+      <resource url="story_content/external_files/Manual Básico de Azure DevOps.pdf" image="story_content/63oCKVRJ3eq.png" title="Manual B&amp;#225;sico de Azure DevOps" translationId="6IURtFLgYX5" />
+      <resource url="story_content/external_files/Proceso de Reporte de Gasto.pdf" image="story_content/5r0wzhrEEyy.png" title="Proceso de Reporte de Gasto" translationId="5wivQiqvsMk" />
     </resources>
   </resource_data>
   <transcript_data />
